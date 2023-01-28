@@ -1,0 +1,23 @@
+{
+    "animalcross.newhoriz":  {"sounds":  ["custom/acnh"]},
+    "tall.gate":  {"sounds":  ["custom/tallgate"]},
+    "subway.up":  {"sounds":  ["custom/subwayup"]},
+    "subway.down":  {"sounds":  ["custom/subwaydown"]},
+    "subway.transfer":  {"sounds":  ["custom/transfer"]},
+    "subway.left":  {"sounds":  ["custom/left"]},
+    "subway.right":  {"sounds":  ["custom/right"]},
+    "subway.emsang":  {"sounds":  ["custom/emsangstation"]},
+    "subway.cookie":  {"sounds":  ["custom/cookiestation"]},
+    "navigation.cookiehyu":  {"sounds":  ["navigation/cookiehyu"]},
+    "navigation.cookieyo":  {"sounds":  ["navigation/cookieyo"]},
+    "navigation.emkuhighway":  {"sounds":  ["navigation/emkuhighway"]},
+    "navigation.emsangyo":  {"sounds":  ["navigation/emsangyo"]},
+    "navigation.error":  {"sounds":  ["navigation/error"]},
+    "navigation.exit":  {"sounds":  ["navigation/exit"]},
+    "navigation.finish":  {"sounds":  ["navigation/finish"]},
+    "navigation.left":  {"sounds":  ["navigation/left"]},
+    "navigation.right":  {"sounds":  ["navigation/right"]},
+    "navigation.start":  {"sounds":  ["navigation/start"]},
+    "navigation.turnemku":  {"sounds":  ["navigation/turnemku"]},
+    "navigation.uturn":  {"sounds":  ["navigation/uturn"]}
+  }

@@ -1,0 +1,10 @@
+{"providers":[
+{"type":"bitmap","file":"minecraft:custom/both_barz.png","ascent":312,"height":484,"chars":["\uA001"]},
+{"type":"bitmap","file":"minecraft:custom/fade_view.png","ascent":312,"height":484,"chars":["\uA002"]},
+{"type":"bitmap","file":"minecraft:custom/clock.png","ascent":8,"height":8,"chars":["\uA003"]},
+{"type":"bitmap","file":"minecraft:custom/carrot.png","ascent":8,"height":8,"chars":["\uA004"]},
+{"type":"bitmap","file":"minecraft:custom/anc.png","ascent":8,"height":8,"chars":["\uA005"]},
+{"type":"bitmap","file":"minecraft:custom/ms.png","ascent":8,"height":8,"chars":["\uA006"]},
+{"type":"bitmap","file":"minecraft:custom/castor.png","ascent":8,"height":8,"chars":["\uA007"]},
+{"type":"bitmap","file":"minecraft:custom/heart.png","ascent":8,"height":8,"chars":["\uA008"]}
+]}
