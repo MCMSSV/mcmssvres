@@ -20,6 +20,6 @@
     "navigation.start":  {"sounds":  ["navigation/start"]},
     "navigation.turnemku":  {"sounds":  ["navigation/turnemku"]},
     "navigation.uturn":  {"sounds":  ["navigation/uturn"]},
-    "subway.goingemsang":  {"sounds":  ["navigation/goingemsang"]},
-    "subway.goingcookie":  {"sounds":  ["navigation/goingcookie"]}
+    "subway.goingemsang":  {"sounds":  ["custom/goingemsang"]},
+    "subway.goingcookie":  {"sounds":  ["custom/goingcookie"]}
   }
