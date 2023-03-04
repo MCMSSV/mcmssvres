@@ -21,5 +21,10 @@
     "navigation.turnemku":  {"sounds":  ["navigation/turnemku"]},
     "navigation.uturn":  {"sounds":  ["navigation/uturn"]},
     "subway.goingemsang":  {"sounds":  ["custom/goingemsang"]},
+    "subway.cookie_end":  {"sounds":  ["custom/cookie_end"]},
+    "subway.end":  {"sounds":  ["custom/subway_end"]},
+    "subway.icecube":  {"sounds":  ["custom/icecube"]},
+    "subway.goingicu":  {"sounds":  ["custom/goingicu"]},
+    "subway.transfer_2":  {"sounds":  ["custom/transfer_2"]},
     "subway.goingcookie":  {"sounds":  ["custom/goingcookie"]}
   }
